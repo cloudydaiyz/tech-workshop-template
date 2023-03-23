@@ -5,5 +5,9 @@ Template to be used for ABCS Technical Workshops for the 2023-2024 school year.
 
 This workshop will cover [blah]. The goal of this workshop is to [blah]. You can find the slides associated with this workshop at [this link](https://google.com). 
 
-## Set Up
-Make a copy of this repository.
+## Setup and Installation
+You need to ensure that you have the latest version of Visual Studio Code and Python on your computer.
+
+## Instructions
+1. Make a copy of this repository.
+2. Have fun
